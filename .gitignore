@@ -41,6 +41,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pandas-for-ds-env/
+
+### Jupyter
+**/*.ipynb_checkpoints
 
 # Preserve example .env files from .envs
 !.envs/*/*.env
